@@ -1,9 +1,6 @@
-numpy
-tensorflow
-tqdm
 streamlit
+tensorflow==2.6.0
 pandas
 Pillow
-sklearn
+numpy
 scikit-learn
-opencv-python
